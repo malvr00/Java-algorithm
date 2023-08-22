@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Main {
     /*
-        2. 가위바위보
+        3. 가위바위보
      */
     public static List<String> solution(int target, String str1, String str2) {
         List<String> result = new ArrayList<>();
