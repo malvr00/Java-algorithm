@@ -71,7 +71,7 @@ public class Main {
 
         result = Math.max(result, sum1);
         result = Math.max(result, sum2);
-        
+
         return result;
     }
 
