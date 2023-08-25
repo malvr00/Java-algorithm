@@ -30,7 +30,7 @@ public class Main {
         List<Integer> answer = new ArrayList<>();
         HashMap<Integer, Integer> hm = new HashMap<>();
         for (int i = 0; i < k - 1; i++) {
-            hm.put(arr[i], hm.getOrDefault(arr[i], 0));
+            hm.put(arr[i], hm.getOrDefault(arr[i], 0) + 1);
         }
 
         int lt = 0;
