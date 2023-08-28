@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54dcffb2-1309-4e29-a135-845a68e58a9a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../stap1-5/a5-1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../stap1-5/a5-1/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../stap1-5/a5-1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../stap1-5/a5-1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../stap1-5/a5-1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../stap1-5/a5-1/a5-1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../stap1-5/a5-1/src/Main.java" afterDir="false" />
+    <list default="true" id="79ee88ac-4cf5-4295-842d-be387fd26f2c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a5-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stap1-4/a4-5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../stap1-4/a4-5/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,10 +26,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Ub57YDPX6skR2EBJQZtlU9BaXS" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2UbL0QUJxLCav83YQOzXNDh6C5i" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -47,12 +46,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="54dcffb2-1309-4e29-a135-845a68e58a9a" name="Changes" comment="" />
-      <created>1693195272686</created>
+      <changelist id="79ee88ac-4cf5-4295-842d-be387fd26f2c" name="Changes" comment="" />
+      <created>1693203109866</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1693195272686</updated>
-      <workItem from="1693195273786" duration="4824000" />
+      <updated>1693203109866</updated>
+      <workItem from="1693203110992" duration="1852000" />
     </task>
     <servers />
   </component>
