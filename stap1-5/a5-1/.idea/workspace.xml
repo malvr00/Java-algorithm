@@ -5,6 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ee88ac-4cf5-4295-842d-be387fd26f2c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../a5-3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a5-3/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a5-3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a5-3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a5-3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a5-3/a5-3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a5-3/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693203109866</updated>
-      <workItem from="1693203110992" duration="3320000" />
+      <workItem from="1693203110992" duration="3323000" />
     </task>
     <servers />
   </component>
