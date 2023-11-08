@@ -1,7 +1,6 @@
 인강 알고리즘 1, 2
 <br/><br/>
-# 1
-<br/><br/>
+# 1<br/>
 1. String<br/>
 2. Array<br/>
 3. Two pointers, Sliding window<br/>
