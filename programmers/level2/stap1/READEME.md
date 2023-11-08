@@ -1,7 +1,7 @@
 # 요격 미사일 [[코드]](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap1/src/Main.java)
 
 요격 미사일 개수 구하기 <br/>
-<img src="https://user-images.githubusercontent.com/77275513/121775510-22552a00-cbc3-11eb-95c9-a5e05f5e76c3.PNG" width="600px" height="300px" 
+<img src="https://github.com/malvr00/Java-Study/assets/77275513/f757b801-c265-48d0-b6a3-e98ffc650f53" width="600px" height="300px" 
   title="100px" alt="RubberDuck"></img><br/>
 <img src="https://github.com/malvr00/Java-algorithm/assets/77275513/e6fcf77f-3931-4252-91f1-d68db3eafd33" width="600px" height="300px" 
   title="100px" alt="RubberDuck"></img><br/>
