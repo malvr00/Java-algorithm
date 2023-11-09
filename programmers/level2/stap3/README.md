@@ -5,7 +5,7 @@
 미로를 최대한 빠르게 빠져나가는 값을 구하는 문제 이기때문에 BFS를 사용하여 문제를 풀어나갔다. <br/>
 <img src="https://github.com/malvr00/Java-Study/assets/77275513/4b3673bd-91a0-4547-8c18-de7cd8764c53" width="600px" height="300px" 
   title="100px" alt="RubberDuck"></img><br/>
-<img src="https://github.com/malvr00/Java-Study/assets/77275513/8be4cb98-1378-46ae-a592-0b78ff6ba1ae" width="600px" height="300px" 
+<img src="https://github.com/malvr00/Java-Study/assets/77275513/319d30a6-ca69-43b4-9b42-4b0ad6a4ad0a" width="600px" height="300px" 
   title="100px" alt="RubberDuck"></img><br/>
   
 ## 해법
