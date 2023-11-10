@@ -1,4 +1,4 @@
-# [호텔 대실](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap3/src/Main.java)
+# [호텔 대실](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap4/src/Main.java)
 
 호텔을 예약한 손님에게 최소 몇 개의 방을 줘야하는지 방 개수를 구하는 문제이다. 손님이 나가면 방 청소 시간 10분이 소요되고,<br/> 
 그렇다면 10:20분에 손님이 방을 나가게된다면, 10:30분에 다음 손님을 받을 수 있다.<br/>
