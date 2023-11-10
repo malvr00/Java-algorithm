@@ -5,3 +5,4 @@
 2. [연속된 부분 수열의 합](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap2)
 3. [미로탈출](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap3)
 4. [호텔 대실](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap4)
+5. [무인도 여행](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap5)
