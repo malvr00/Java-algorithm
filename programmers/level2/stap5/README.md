@@ -1,4 +1,4 @@
-# [무인도 여행](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap3/src/Main.java)
+# [무인도 여행](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap5/src/Main.java)
 
 1x1크기의 칸으로 이루어져있는 맵에 무인도에 체류 시 식량이 며칠이 필요한지 구하는 문제이다. <br/>
 맵에 무인도는 여러곳이 존재하고, 무인도 정보 안 에는 식량의 정보들이 담겨있다.<br/>
