@@ -8,3 +8,4 @@
 5. [무인도 여행](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap5)
 6. [뒤에 있는 큰 수 찾기](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap6)
 7. [숫자 변환하기](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap7)
+8. [택배 배달과 수거하기 (카카오)](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap8)
