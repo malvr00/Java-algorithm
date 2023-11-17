@@ -25,83 +25,79 @@ title="100px" alt="RubberDuck"></img><br/>
 * 두 번째: 체크 배열을 sale만 남겨 둔 후 할인율만 가지고 진행되도록 수정했다. 
   그 이전에는 DFS 진입하는 구간에 이모티콘 값이 있는 배열 for문 , 사용자가 이모티콘을 구매하는 구간에는 할인율을 체크하는 for문 추가로 더 있었다. <br/><br/>
 첫 번째
-```json
-{
-      if(lv == emoticons.length) {
-        int newRegi = 0;
-        int price = 0;
-        for (int i = 0; i < users.length; i++) {
-          int sum = 0;
-          for (int j = 0; j < saleCh.length; j++) {
-              for (int s = 4; s > 0; s--) {
-              if (saleCh[j][s - 1] > 0) {
-                int num = s * 10;
-                if (num >= users[i][0]) {
-                  sum += emoticons[j] - (emoticons[j] * num / 100);
-                }
-                break;
-              }
+```java
+  if(lv == emoticons.length) {
+    int newRegi = 0;
+    int price = 0;
+    for (int i = 0; i < users.length; i++) {
+      int sum = 0;
+      for (int j = 0; j < saleCh.length; j++) {
+          for (int s = 4; s > 0; s--) {
+          if (saleCh[j][s - 1] > 0) {
+            int num = s * 10;
+            if (num >= users[i][0]) {
+              sum += emoticons[j] - (emoticons[j] * num / 100);
             }
-          }
-          if (sum >= users[i][1]) {
-            newRegi++;
-          } else {
-            price += sum;
+            break;
           }
         }
-        if (answer[0] < newRegi) {
-          answer[0] = newRegi;
-          answer[1] = price;
-        } else if (answer[0] == newRegi) {
-          answer[1] = Math.max(answer[1], price);
-        }
+      }
+      if (sum >= users[i][1]) {
+        newRegi++;
       } else {
-        for (int i = 4; i > 0; i--) {
-          for (int j = 0; j < emoticons.length; j++) {
-            if (priceCh[j] == 0 && saleCh[j][i - 1] == 0) {
-              priceCh[j] = 1;
-              saleCh[j][i - 1] = 1;
-              DFS(users, emoticons, lv + 1);
-              priceCh[j] = 0;
-              saleCh[j][i - 1] = 0;
-            }
-          }
-        }
-      }
-}
-```
-두 번째
-```json
-{
-    if(lv == emoticons.length) {
-      int newRegi = 0;
-      int price = 0;
-      for (int i = 0; i < users.length; i++) {
-        int sum = 0;
-        for (int j = 0; j < emoticons.length; j++) {
-          int num = saleCh2[j] * 10;
-          if (num >= users[i][0]) {
-            sum += emoticons[j] - (emoticons[j] * num / 100);
-          }
-        }
-        if (sum >= users[i][1]) {
-          newRegi++;
-        } else {
-          price += sum;
-        }
-      }
-      if (answer[0] < newRegi) {
-        answer[0] = newRegi;
-        answer[1] = price;
-      } else if (answer[0] == newRegi) {
-        answer[1] = Math.max(answer[1], price);
-      }
-    } else {
-      for (int i = 4; i > 0; i--) {
-        saleCh2[lv] = i;
-        DFS(users, emoticons, lv + 1);
-        saleCh2[lv] = 0;
+        price += sum;
       }
     }
-}
+    if (answer[0] < newRegi) {
+      answer[0] = newRegi;
+      answer[1] = price;
+    } else if (answer[0] == newRegi) {
+      answer[1] = Math.max(answer[1], price);
+    }
+  } else {
+    for (int i = 4; i > 0; i--) {
+      for (int j = 0; j < emoticons.length; j++) {
+        if (priceCh[j] == 0 && saleCh[j][i - 1] == 0) {
+          priceCh[j] = 1;
+          saleCh[j][i - 1] = 1;
+          DFS(users, emoticons, lv + 1);
+          priceCh[j] = 0;
+          saleCh[j][i - 1] = 0;
+        }
+      }
+    }
+  }
+```
+두 번째
+```java
+  if(lv == emoticons.length) {
+    int newRegi = 0;
+    int price = 0;
+    for (int i = 0; i < users.length; i++) {
+      int sum = 0;
+      for (int j = 0; j < emoticons.length; j++) {
+        int num = saleCh2[j] * 10;
+        if (num >= users[i][0]) {
+          sum += emoticons[j] - (emoticons[j] * num / 100);
+        }
+      }
+      if (sum >= users[i][1]) {
+        newRegi++;
+      } else {
+        price += sum;
+      }
+    }
+    if (answer[0] < newRegi) {
+      answer[0] = newRegi;
+      answer[1] = price;
+    } else if (answer[0] == newRegi) {
+      answer[1] = Math.max(answer[1], price);
+    }
+  } else {
+    for (int i = 4; i > 0; i--) {
+      saleCh2[lv] = i;
+      DFS(users, emoticons, lv + 1);
+      saleCh2[lv] = 0;
+    }
+  }
 ```
