@@ -13,3 +13,5 @@
 10. [마법의 엘레베이터](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap10)
 11. [귤 고르기](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap11)
 12. [롤케이크 자르기](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap12)
+13. [택배상자](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap13)
+14. [역속 부분 수열 합의 개수](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap14)
