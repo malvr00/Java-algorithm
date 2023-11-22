@@ -1,4 +1,4 @@
-# [롤케이크 자르기](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap11/src/Main.java)
+# [롤케이크 자르기](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap12/src/Main.java)
 
 형제의 케이크를 나눠야 하는데, 케이크 위에 올라간 토핑의 종류 수가 같으면 카운트를 증가시키는 문제인데 토핑의 종류가 같을 수 있는 경우의 수를 구하는 문제이다.<br/>
 <img src="https://github.com/malvr00/Java-algorithm/assets/77275513/8a68476b-12f5-4aab-93ac-a4b442c6acd3" width="600px" height="300px"
