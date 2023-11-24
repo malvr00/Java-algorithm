@@ -19,3 +19,4 @@
 16. [두 큐 합 같게 만들기 (KAKAO)](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap16)
 17. [양궁 대회 (KAKAO)](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap17)
 18. [주차 요금 계산 (KAKAO)](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap18)
+19. [k진수에서 소수 개수 구하기 (KAKAO)](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap19)
