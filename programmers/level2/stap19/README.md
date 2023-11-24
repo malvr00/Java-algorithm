@@ -1,7 +1,7 @@
 # [k 진수에 소수 개수 구하기(KAKAO)](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap19/src/Main.java)
 
 숫자 n이 주워지면 k진법으로 바군 후 0의 옆에 숫자가 존재 할 경우 그 숫자가 소수인지 판별하는 문제이다. <br/>
-<img src="https://github.com/malvr00/Java-algorithm/assets/77275513/c7489bf0-9449-4c5a-b020-803d55982860" width="600px" height="300px"
+<img src="https://github.com/malvr00/Java-algorithm/assets/77275513/af0605a5-0064-482d-901d-6755c2dc5f82" width="600px" height="300px"
 title="100px" alt="RubberDuck"></img><br/>
 <img src="https://github.com/malvr00/Java-algorithm/assets/77275513/c3c3e6ed-ebba-48de-9439-d97ab4194e95" width="600px" height="300px"
 title="100px" alt="RubberDuck"></img><br/>
