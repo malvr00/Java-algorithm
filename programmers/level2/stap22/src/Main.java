@@ -2,6 +2,10 @@ import java.util.*;
 
 public class Main {
 
+    /**
+     * Level2.
+     * 전력망을 둘로 나누기
+     */
     static int[][] arr;
     public int solution(int n, int[][] wires) {
         int answer = n;
