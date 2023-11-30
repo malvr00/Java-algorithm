@@ -23,3 +23,4 @@
 20. [피로도](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap20)
 21. [n^2 배열 자르기](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap21)
 22. [전력망 둘로 나누기](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap22)
+23. [모음 사전](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap23)
