@@ -1,6 +1,6 @@
 # [거리두기 확인](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap24/src/Main.java)
 
-대기실에 면접 대기자 ‘P’가 있는데 두 자리씩 간격을 두고 앉거나 블라인드 ‘B’가 쳐져 있어야 한다. 거리 계산식은 |x1-x2| + |y1 - y2| 인데 값이 3 이상 이거나, 2이하 일 경우 블라인드 ‘B’가 쳐져 있는지 확인해 블라인드가 없다면 0 을 정답 배열에 담아야 한다.<br/>
+대기실에 면접 대기자 ‘P’가 있는데 두 자리씩 간격을 두고 앉거나 블라인드 ‘B’가 쳐져 있어야 한다. 거리 계산식은 |x1-x2| + |y1 - y2| 인데 값이 3 이상 이거나, 2이하 일 경우 블라인드 ‘B’가 쳐져 있는지 확인해 블라인드가 없다면 0 을  블라인드가 있다면 1을 정답 배열에 담아야 한다.<br/>
 <img src="https://github.com/malvr00/Java-algorithm/assets/77275513/f2fd05d2-3f6b-4cdc-9ad6-e9c057623078" width="600px" height="300px"
 title="100px" alt="RubberDuck"></img><br/>
 <img src="https://github.com/malvr00/Java-algorithm/assets/77275513/aacca5d8-8315-4d68-a6e5-0402c5b4ee5a" width="600px" height="300px"
