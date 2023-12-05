@@ -1,6 +1,6 @@
 # [이진 변환 반복하기](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap28/src/Main.java)
 
-1차 임시 커밋 ( 주말에 계속 진행 )<br/>
+String s 변수에 2진수의 값이 주워지는데 먼저 0의 개수를 구하고 0이 존재한다면 0을 제거 후 s의 길이를 구해 s의 길이만큼 2진수로 다시 변환한다. s의 값이 1이 될때 까지 무한 반복하면 된다.<br/>
 
 <img src="https://github.com/malvr00/Java-algorithm/assets/77275513/f9211de5-1de3-44b0-a104-9552d86bce1d" width="600px" height="300px"
 title="100px" alt="RubberDuck"></img><br/>
