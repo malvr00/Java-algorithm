@@ -1,4 +1,4 @@
-# [타겟 넘버](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap33/src/Main.java)
+# [타겟 넘버](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap34/src/Main.java)
 
 Int 배열에 원소 값과 target 값이 주어지는데, 배열의 원소 값을 더하거나 빼서 target과 같아질 때 카운트를 증가시켜 반환하는 문제이다.<br/>
 
