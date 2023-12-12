@@ -36,4 +36,5 @@
 33. [문자열 압축 (KAKAO)](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap33)
 34. [타겟 넘버](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap34)
 35. [오픈채팅방 (KAKAO)](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap35)
-36. [구명보트](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap36)
+36. [구명보트 *](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap36)
+37. [큰 수 만들기 *](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap37)
