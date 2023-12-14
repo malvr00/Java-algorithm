@@ -40,3 +40,4 @@
 37. [큰 수 만들기 *](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap37)
 38. [조이스틱 *](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap38)
 39. [카펫 *](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap39)
+40. [소수 찾기](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap40)
