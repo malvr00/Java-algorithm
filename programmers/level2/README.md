@@ -22,7 +22,7 @@
 19. [k진수에서 소수 개수 구하기 (KAKAO)](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap19)
 20. [피로도](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap20)
 21. [n^2 배열 자르기](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap21)
-22. [전력망 둘로 나누기](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap22)
+22. [전력망 둘로 나누기 *](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap22)
 23. [모음 사전](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap23)
 24. [거리두기 확인하기(KAKAO)](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap24)
 25. [행렬 테두리 회전하기](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap25)
