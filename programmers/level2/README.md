@@ -46,3 +46,4 @@
 43. [프로세스](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap43)
 44. [기능개발](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap44)
 45. [더 맵게 *](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap45)
+46. [짝지어 제거하기 *](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap46)
