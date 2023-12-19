@@ -47,3 +47,4 @@
 44. [기능개발](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap44)
 45. [더 맵게 *](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap45)
 46. [짝지어 제거하기 *](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap46)
+47. [1차 캐시 (KAKAO) *](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level2/stap47)
