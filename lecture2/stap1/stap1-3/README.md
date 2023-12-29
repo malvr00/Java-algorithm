@@ -1,4 +1,4 @@
-# [잃어버린 강아 ](https://github.com/malvr00/Java-algorithm/blob/master/lecture2/stap1/stap1-2/src/Main.java)
+# [잃어버린 강아지](https://github.com/malvr00/Java-algorithm/blob/master/lecture2/stap1/stap1-3/src/Main.java)
 
 현수와 강이지가 맵을 각자 돌아다니는데 이동 할 때마다 1 초가 걸리고 만약 길이 막혀있다면 방향전환을 통해 다시 길을 간다. 이때 방향전환이 일어났을 경우 1 초가 증가한다. 길을 이동하다 현수와 강아지가 만났을 때 총 몇 초가 걸렸는지 출력하는 문제이다.<br/>
 
