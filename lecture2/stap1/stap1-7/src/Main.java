@@ -37,7 +37,7 @@ public class Main {
 
             keypadArr[row][i % 3] = keypad[i];
         }
-
+        
         // 비밀번호 누르기
         for (int i = 1; i < password.length(); i++) {
             int preVal = Character.getNumericValue(password.charAt(i - 1));
