@@ -7,3 +7,4 @@
 4. [좌석 번호](https://github.com/malvr00/Java-algorithm/tree/master/lecture2/stap1/stap1-4)
 5. [최대길이 바이토닉 수열](https://github.com/malvr00/Java-algorithm/tree/master/lecture2/stap1/stap1-5)
 6. [* 과일 가져가기](https://github.com/malvr00/Java-algorithm/tree/master/lecture2/stap1/stap1-6)
+7. [비밀번호](https://github.com/malvr00/Java-algorithm/tree/master/lecture2/stap1/stap1-7)
