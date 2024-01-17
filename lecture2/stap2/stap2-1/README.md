@@ -1,4 +1,4 @@
-# [한 번 사용한 최초문자](https://github.com/malvr00/Java-algorithm/blob/master/lecture2/stap1/stap2-1/src/Main.java)
+# [한 번 사용한 최초문자](https://github.com/malvr00/Java-algorithm/blob/master/lecture2/stap2/stap2-1/src/Main.java)
 
 String 값에서 중복되지 않은 문자 중 index 번호가 가장 낮은 수를 출력하는 문제이다. 만약 중복되지 않은 문자가 없다면 -1을 출력한다.<br/>
 
