@@ -1,4 +1,4 @@
-# [서로 다른 빈도수 만들기](https://github.com/malvr00/Java-algorithm/blob/master/lecture2/stap2/stap2-4/src/Main.java)
+# [서로 다른 빈도수 만들기](https://github.com/malvr00/Java-algorithm/blob/master/lecture2/stap2/stap2-3/src/Main.java)
 
 문자열이 주어지면 중복된 문자의 빈도 수가 다른 문자와 중복되지 않고 유니크 한 값을 만들어야 한다. 유니크 한 값을 만들기 위해 중복문자의 개수를 차감해 나갈 때 차감한 값을 누적해 출력한다.
 <br/>
