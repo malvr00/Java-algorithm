@@ -1,4 +1,4 @@
-# [최대 길이 연속수열](https://github.com/malvr00/Java-algorithm/blob/master/lecture2/stap2/stap3-1/src/Main.java)
+# [최대 길이 연속수열](https://github.com/malvr00/Java-algorithm/blob/master/lecture2/stap3/stap3-1/src/Main.java)
 
 숫자 값이 들어있는 nums 배열에서 1씩 증가하는 수열의 최대 개수를 구하는 문제이다.
 <br/>
