@@ -5,7 +5,7 @@
 
 1. 시뮬레이션 & 구현[(이동)](https://github.com/malvr00/Java-algorithm/tree/master/lecture2/stap1)<br/>
 2. 해싱 & 시간파싱[(이동)](https://github.com/malvr00/Java-algorithm/tree/master/lecture2/stap2)<br/>
-3. 자료구조 활용<br/>
+3. 자료구조 활용[(이동)](https://github.com/malvr00/Java-algorithm/tree/master/lecture2/stap3)<br/>
 4. Sorting & Thinking<br/>
 5. greedy<br/>
 6. DFS<br/>
