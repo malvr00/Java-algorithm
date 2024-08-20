@@ -1,10 +1,7 @@
-# Sorting & Thinking
+# Greedy
 
 ## 문제
-1. [이진수 정렬](https://github.com/malvr00/Java-algorithm/tree/master/lecture2/stap4/stap4-1)
-2. [수열 찾기](https://github.com/malvr00/Java-algorithm/tree/master/lecture2/stap4/stap4-2)
-3. [* 카드 가져가기](https://github.com/malvr00/Java-algorithm/tree/master/lecture2/stap4/stap4-3)
-4. [* 심사위원](https://github.com/malvr00/Java-algorithm/tree/master/lecture2/stap4/stap4-4)
-5. [모임장소](https://github.com/malvr00/Java-algorithm/tree/master/lecture2/stap4/stap4-5)
-6. [* 멀티태스킹](https://github.com/malvr00/Java-algorithm/tree/master/lecture2/stap4/stap4-6)
-7. [최소 회의실 개수](https://github.com/malvr00/Java-algorithm/tree/master/lecture2/stap4/stap4-7)
+1. [침몰하는 타이타닉](https://github.com/malvr00/Java-algorithm/tree/master/lecture2/stap4/stap5-1)
+2. [이동 횟수](https://github.com/malvr00/Java-algorithm/tree/master/lecture2/stap4/stap5-2)
+3. [* 스프링 쿨러](https://github.com/malvr00/Java-algorithm/tree/master/lecture2/stap4/stap5-3)
+4. [꽃이 피는 최단시간](https://github.com/malvr00/Java-algorithm/tree/master/lecture2/stap4/stap5-4)
