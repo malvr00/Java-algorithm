@@ -1,4 +1,4 @@
-# [최소 회의실 개수](https://github.com/malvr00/Java-algorithm/blob/master/lecture2/stap5/stap5-1/src/Main.java)
+# [이동횟수](https://github.com/malvr00/Java-algorithm/blob/master/lecture2/stap5/stap5-2/src/Main.java)
 현수는 n개의 물건을 A창고에서 B창고로 옮기려고 합니다.<br/>
 현수는 한 번에 5kg이하로만 들고 이동할 수 있습니다. 한 번에 여러개를 옮길 수 있습니다. A창고에서 B창고로의 왕복을 한 번의 이동이라고 할 때 최소 이동 횟수로 n개의 물건을 모두 옮 기려고 합니다.
 <br/>
