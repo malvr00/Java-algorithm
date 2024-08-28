@@ -9,7 +9,7 @@
 4. Sorting & Thinking[(이동)](https://github.com/malvr00/Java-algorithm/tree/master/lecture2/stap4)<br/>
 5. greedy[(이동)](https://github.com/malvr00/Java-algorithm/tree/master/lecture2/stap5)<br/>
 6. DFS[(이동)](https://github.com/malvr00/Java-algorithm/tree/master/lecture2/stap6)<br/>
-7. BFS<br/>
+7. BFS[(이동)](https://github.com/malvr00/Java-algorithm/tree/master/lecture2/stap7)<br/>
 8. Graph<br/>
 9. dynamic programming<br/>
    <br/>
