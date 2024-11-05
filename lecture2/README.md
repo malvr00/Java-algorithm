@@ -11,5 +11,5 @@
 6. DFS[(이동)](https://github.com/malvr00/Java-algorithm/tree/master/lecture2/stap6)<br/>
 7. BFS[(이동)](https://github.com/malvr00/Java-algorithm/tree/master/lecture2/stap7)<br/>
 8. Graph<br/>
-9. Dynamic programming[(이동)](https://github.com/malvr00/Java-algorithm/tree/master/lecture2/stap9)<br/>
+9. Dynamic programming(백준 문제)[(이동)](https://github.com/malvr00/Java-algorithm/tree/master/lecture2/stap9)<br/>
    <br/>
