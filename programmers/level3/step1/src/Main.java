@@ -93,7 +93,6 @@ class Solution {
     public void combi(int L, int s, int[][] dice) {
         if(L == DICE_CNT / 2) {
             select(dice);
-            int tempWinCnt = aWinCnt;
             if(saveWinCnt < aWinCnt) {
                 saveWinCnt = aWinCnt;
                 answerList = new ArrayList<>();
