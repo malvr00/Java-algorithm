@@ -6,7 +6,8 @@ class Solution {
      * 프로그래머스 레벨 3
      * 문제: n + 1 카드게임
      *       2024 KAKAO WINTER INTERNSHIP
-     * 구현문제
+     * 구현문제 + Greedy
+     *   (코인을 사용할지, 코인을 사용안할지, 내 손패에서 카드를 낼지, 카드뭉치와 함께 카드를 낼지) 최선의 선택을 해야 함
      */
     public int solution(int coin, int[] cards) {
         int answer = 0;
