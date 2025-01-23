@@ -17,6 +17,7 @@ class Solution {
         final int FIRST_GET = 3;
         final int CARD_SIZE = cards.length - 1;
 
+        // 문제 지문에 원소 중복이 되지 않는다고 나와있기 때문에 List대신 Set을 채택
         Set<Integer> myCards = new HashSet<>();
         Set<Integer> nowCards = new HashSet<>();
 
