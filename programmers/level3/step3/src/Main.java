@@ -4,6 +4,7 @@ import java.util.*;
      * 프로그래머스 레벨 3.
      * [PCCP 기출문제] 4번 / 수레 움직이기
      * BFS
+     *  움직여야하는 노드가 여러개 일 경우 움직임 체크 배열을 노드별로 만들어 관리해줘야 편하다.
      */
 class Solution {
     int COL;
