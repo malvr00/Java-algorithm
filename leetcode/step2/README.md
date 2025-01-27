@@ -1,4 +1,4 @@
-# [First Unique Character in a String](https://github.com/malvr00/Java-algorithm/blob/master/leetcode/step1/src/Main.java)
+# [First Unique Character in a String](https://github.com/malvr00/Java-algorithm/blob/master/leetcode/step2/src/Main.java)
 
 ([자세한 문제는 LeetCode 참고](https://leetcode.com/problems/first-unique-character-in-a-string/description/)) <br/>
 Given a string s, find the first non-repeating character in it and return its index. If it does not exist, return -1.
