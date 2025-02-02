@@ -1,4 +1,4 @@
-# [n + 1 카드게임 (2024 KAKAO WINTER INTERNSHIP)](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level3/step2/src/Main.java)
+# [n + 1 카드게임 (2024 KAKAO WINTER INTERNSHIP)](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level3/stap2/src/Main.java)
 
 ([자세한 문제는 프로그래머스 참고](https://school.programmers.co.kr/learn/courses/30/lessons/258707)) <br/>
 당신은 1~n 사이의 수가 적힌 카드가 하나씩 있는 카드 뭉치와 동전 coin개를 이용한 게임을 하려고 합니다. 카드 뭉치에서 카드를 뽑는 순서가 정해져 있으며, 게임은 다음과 같이 진행합니다.<br/>
