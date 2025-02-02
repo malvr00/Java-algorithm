@@ -1,4 +1,4 @@
-# [주사위 고르기 (2024 KAKAO WINTER INTERNSHIP)](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level3/stap1/src/Solution.java)
+# [주사위 고르기 (2024 KAKAO WINTER INTERNSHIP)](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level3/step1/src/Main.java)
 
 ([자세한 문제는 프로그래머스 참고](https://school.programmers.co.kr/learn/courses/30/lessons/258709)) <br/>
 A와 B가 n개의 주사위를 가지고 승부를 합니다. 주사위의 6개 면에 각각 하나의 수가 쓰여 있으며, 주사위를 던졌을 때 각 면이 나올 확률은 동일합니다. 각 주사위는 1 ~ n의 번호를 가지고 있으며, 주사위에 쓰인 수의 구성은 모두 다릅니다.<br/>
