@@ -7,3 +7,4 @@
 4. [[현대모비스] 에어컨](https://github.com/malvr00/Java-algorithm/tree/master/programmers/level3/step4)
 5. [[현대모비스] 상담원 인원](https://github.com/malvr00/Java-algorithm/tree/master/programmers/level3/step5)
 6. [연속 펄스 부분 수열의 합](https://github.com/malvr00/Java-algorithm/tree/master/programmers/level3/step6)
+7. [인사고과](https://github.com/malvr00/Java-algorithm/tree/master/programmers/level3/step7)
