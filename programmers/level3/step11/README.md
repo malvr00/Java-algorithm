@@ -1,4 +1,4 @@
-# [카운트 다운](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level3/step10/src/Main.java)
+# [카운트 다운](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level3/step11/src/Main.java)
 
 ([자세한 문제는 프로그래머스 참고](https://school.programmers.co.kr/learn/courses/30/lessons/131129)) <br/>
 프로그래머스 다트 협회에서는 매년마다 새로운 특수 룰으로 다트 대회를 개최합니다. 이번 대회의 룰은 "카운트 다운"으로 "제로원" 룰의 변형 룰입니다.<br/>
