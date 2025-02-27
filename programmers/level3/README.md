@@ -12,3 +12,5 @@
 9. [(KAKAO BLIND RECRUITMENT)미로 탈출 명령어](https://github.com/malvr00/Java-algorithm/tree/master/programmers/level3/step9)
 10. [2차원 동전 뒤집기](https://github.com/malvr00/Java-algorithm/tree/master/programmers/level3/step10)
 11. [카운트 다운](https://github.com/malvr00/Java-algorithm/tree/master/programmers/level3/step11)
+12. [(2022 KAKAO BLIND RECRUITMENT)코딩 테스트 공부](https://github.com/malvr00/Java-algorithm/tree/master/programmers/level3/step12)
+13. [(2022 KAKAO BLIND RECRUITMENT)파괴되지 않은 건물](https://github.com/malvr00/Java-algorithm/tree/master/programmers/level3/step13)
