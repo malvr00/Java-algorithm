@@ -5,6 +5,12 @@ import java.util.List;
 import java.util.StringTokenizer;
 
 public class Main {
+
+    /**
+     * 골드 3.
+     * 파일합치기
+     */
+
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
@@ -31,7 +37,7 @@ public class Main {
         long[] ps = new long[K + 1];
         for (int i = 1; i <= K; i++) ps[i] = ps[i - 1] + files[i];
 
-        long[][] dp = new long[K + 2][K + 2];
+        long[][] dp = new long[K + 1][K + 1];
 
         for (int len = 2; len <= K; len++) {
             for (int i = 1; i + len - 1 <= K; i++) {
