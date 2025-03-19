@@ -1,4 +1,4 @@
-# [LCS 2](https://github.com/malvr00/Java-algorithm/blob/master/backjoon/dp/step11/src/Main.java)
+# [등차수열](https://github.com/malvr00/Java-algorithm/blob/master/backjoon/dp/step12/src/Main.java)
 N개의 음 아닌 정수들이 있다. 이들 중 몇 개의 정수를 선택하여 나열하면 등차수열을 만들 수 있다. 예를 들어 4, 3, 1, 5, 7이 있을 때 1, 3, 5, 7을 선택하여 나열하면 등차수열이 된다. 이와 같이 했을 때, 등차수열의 길이가 최대 얼마까지 가능한지 알아내시오.<br/>
 <br/>
 등차수열은 일정한 값만큼 증가하는 수열을 말한다. 이 일정한 값은 음수나 0도 될 수 있다.
