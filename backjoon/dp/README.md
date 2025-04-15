@@ -22,4 +22,5 @@
 17. <mark>(골드  5)</mark> 동전 2 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step17)
 18. <mark>(골드  4)</mark> 타일 채우기 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step18)
 19. <mark>(실버  1)</mark> 점프 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step19)
-19. <mark>(골드  5)</mark> 합분해 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step20)
+20. <mark>(골드  5)</mark> 합분해 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step20)
+21. <mark>(실버  2)</mark> 합분해 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step21)
