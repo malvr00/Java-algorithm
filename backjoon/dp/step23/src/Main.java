@@ -1,10 +1,50 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
+import java.util.StringTokenizer;
 
 public class Main {
-    public static void main(String[] args) {
+
+    public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        
-        System.out.println("Hello world!");
+
+        final int N = Integer.parseInt(br.readLine());
+        int[][] board = new int[N][3];
+
+        for (int i = 0; i < N; i++) {
+            StringTokenizer st = new StringTokenizer(br.readLine());
+            board[i][0] = Integer.parseInt(st.nextToken());
+            board[i][1] = Integer.parseInt(st.nextToken());
+            board[i][2] = Integer.parseInt(st.nextToken());
+        }
+        solution(N, board);
     }
+
+    public static void solution(final int N, final int[][] board) {
+        int[][] maxDp = new int[N][3];
+        int[][] minDp = new int[N][3];
+
+        maxDp[0][0] = board[0][0];
+        maxDp[0][1] = board[0][1];
+        maxDp[0][2] = board[0][2];
+
+        minDp[0][0] = board[0][0];
+        minDp[0][1] = board[0][1];
+        minDp[0][2] = board[0][2];
+
+        for (int i = 1; i < N; i++) {
+            // 최대
+            maxDp[i][0] = Math.max(maxDp[i - 1][0], maxDp[i - 1][1]) + board[i][0];
+            maxDp[i][1] = Math.max(maxDp[i - 1][0], Math.max(maxDp[i - 1][1], maxDp[i - 1][2])) + board[i][1];
+            maxDp[i][2] = Math.max(maxDp[i - 1][1], maxDp[i - 1][2]) + board[i][2];
+
+            // 최소
+            minDp[i][0] = Math.min(minDp[i - 1][0], minDp[i - 1][1]) + board[i][0];
+            minDp[i][1] = Math.min(minDp[i - 1][0], Math.max(minDp[i - 1][1], minDp[i - 1][2])) + board[i][1];
+            minDp[i][2] = Math.min(minDp[i - 1][1], minDp[i - 1][2]) + board[i][2];
+        }
+
+        System.out.println(Math.max(Math.max(maxDp[N - 1][0], maxDp[N - 1][1]), maxDp[N - 1][2]) +
+                " " + Math.min(Math.min(minDp[N - 1][0], minDp[N - 1][1]), minDp[N - 1][2]));
+    }
+
 }
