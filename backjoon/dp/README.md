@@ -25,3 +25,4 @@
 20. <mark>(골드  5)</mark> 합분해 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step20)
 21. <mark>(실버  2)</mark> 상자넣기 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step21)
 22. <mark>(실버  1)</mark> 동물원 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step22)
+22. <mark>(골드  5)</mark> 내려가기 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step23)
