@@ -28,4 +28,5 @@
 23. <mark>(골드  5)</mark> 내려가기 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step23)
 24. <mark>(골드  4)</mark> 줄세우기 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step24)
 25. <mark>(골드  5)</mark> 극장 좌석 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step25)
-25. <mark>(플레  5)</mark> 고층 빌딩 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step26)
+26. <mark>(플레  5)</mark> 고층 빌딩 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step26)
+27. <mark>(골드  5)</mark> 공통 부분 문자열 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step27)
