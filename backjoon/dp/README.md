@@ -30,3 +30,4 @@
 25. <mark>(골드  5)</mark> 극장 좌석 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step25)
 26. <mark>(플레  5)</mark> 고층 빌딩 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step26)
 27. <mark>(골드  5)</mark> 공통 부분 문자열 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step27)
+28. <mark>(골드  3)</mark> 구간 나누기 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step28)
