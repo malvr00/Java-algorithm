@@ -1,4 +1,4 @@
-# [벽장문의 이동](https://github.com/malvr00/Java-algorithm/blob/master/backjoon/dp/step29/src/Main.java)
+# [벽장문의 이동](https://github.com/malvr00/Java-algorithm/blob/master/backjoon/dp/step30/src/Main.java)
 어떤 도시의 중심가는 N개의 동서방향 도로와 N개의 남북방향 도로로 구성되어 있다.<br/>
 <br/>
 모든 도로에는 도로 번호가 있으며 남북방향 도로는 왼쪽부터 1에서 시작하여 N까지 번호가 할당되어 있고 동서방향 도로는 위부터 1에서 시작하여 N까지 번호가 할당되어 있다. 또한 동서방향 도로 사이의 거리와 남 북방향 도로 사이의 거리는 모두 1이다. 동서방향 도로와 남북방향 도로가 교차하는 교차로의 위치는 두 도로의 번호의 쌍인 (동서방향 도로 번호, 남북방향 도로 번호)로 나타낸다. N이 6인 경우의 예를 들면 다음과 같다.<br/>
