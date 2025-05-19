@@ -5,7 +5,7 @@
 <br/>
 모든 사람은 선물을 하나씩 받으며, 자기의 선물을 자기가 받는 경우는 없다.
 
-([자세한 문제는 백준 참고](https://www.acmicpc.net/problem/2229)) <br/>
+([자세한 문제는 백준 참고](https://www.acmicpc.net/problem/1947)) <br/>
 
 ## 해법
 * 배열을 `dp[N + 1]` 생성한다.

@@ -34,3 +34,4 @@
 29. <mark>(골드  5)</mark> 벽장문의 이동 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step29)
 30. <mark>(플레  4)</mark> 경찰차 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step30)
 31. <mark>(골드  5)</mark> 조 짜기 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step31)
+32. <mark>(골드  5)</mark> 선물 전달 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step32)
