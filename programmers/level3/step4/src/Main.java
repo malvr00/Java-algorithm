@@ -31,7 +31,9 @@ public class Main {
                 if (sec >= 1) dy[i + 1][sec - 1] = Math.min(dy[i + 1][sec - 1], dy[i][sec] + a);
 
                 // 에어컨 OFF
-                if (temperature > sec && sec < endSec) {
+                if(temperature == sec) {
+                  dy[i + 1][sec] = Math.min(dy[i + 1][sec], dy[i][sec]);
+                } else if (temperature > sec && sec < endSec) {
                     // UP
                     dy[i + 1][sec + 1] = Math.min(dy[i + 1][sec + 1], dy[i][sec]);
                 } else if (temperature < sec) {
