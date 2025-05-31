@@ -4,4 +4,5 @@
 
 ## 문제
 1. <mark>(실버  2)</mark> DFS와 BFS [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dfs_bfs/step1)
-1. <mark>(실버  1)</mark> 미로 탐색 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dfs_bfs/step2)
+2. <mark>(실버  1)</mark> 미로 탐색 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dfs_bfs/step2)
+3. <mark>(실버  3)</mark> 바이러스 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dfs_bfs/step3)
