@@ -9,3 +9,4 @@
 4. <mark>(실버  1)</mark> 단지번호붙이기 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dfs_bfs/step4)
 5. <mark>(실버  2)</mark> 촌수계산 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dfs_bfs/step5)
 6. <mark>(골드  5)</mark> 토마토 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dfs_bfs/step6)
+6. <mark>(실버  1)</mark> 숨박꼭질 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dfs_bfs/step7)
