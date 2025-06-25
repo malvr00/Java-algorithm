@@ -13,3 +13,4 @@
 8. <mark>(실버  1)</mark> 안전 영역 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dfs_bfs/step8)
 9. <mark>(골드  4)</mark> 빙산 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dfs_bfs/step9)
 10. <mark>(골드  5)</mark> 로봇 청소기 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dfs_bfs/step10)
+11. <mark>(실버  2)</mark> 연결 요소의 개수 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dfs_bfs/step11)
