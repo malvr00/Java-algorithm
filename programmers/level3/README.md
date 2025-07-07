@@ -14,3 +14,4 @@
 11. [카운트 다운](https://github.com/malvr00/Java-algorithm/tree/master/programmers/level3/step11)
 12. [(2022 KAKAO BLIND RECRUITMENT)코딩 테스트 공부](https://github.com/malvr00/Java-algorithm/tree/master/programmers/level3/step12)
 13. [(2022 KAKAO BLIND RECRUITMENT)파괴되지 않은 건물](https://github.com/malvr00/Java-algorithm/tree/master/programmers/level3/step13)
+14. [아이템 줍기](https://github.com/malvr00/Java-algorithm/tree/master/programmers/level3/step14)
