@@ -17,3 +17,4 @@
 12. <mark>(골드  5)</mark> 토마토 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dfs_bfs/step12)
 13. <mark>(골드  3)</mark> 말이 되고픈 원숭이 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dfs_bfs/step13)
 14. <mark>(골드  2)</mark> 퍼즐 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dfs_bfs/step14)
+15. <mark>(실버  1)</mark> 케빈 베이컨의 6 단계 법칙 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dfs_bfs/step15)
