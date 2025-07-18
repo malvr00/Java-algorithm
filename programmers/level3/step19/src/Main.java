@@ -38,6 +38,6 @@ public class Main {
         int n = 4;
         int[] works = {4, 3, 3};
 
-        System.out.println(m.solution(n, works););
+        System.out.println(m.solution(n, works));
     }
 }
