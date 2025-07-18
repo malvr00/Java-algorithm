@@ -20,4 +20,4 @@
 17. [가장 긴 팰린드롬](https://github.com/malvr00/Java-algorithm/tree/master/programmers/level3/step17)
 18. [거스름 돈](https://github.com/malvr00/Java-algorithm/tree/master/programmers/level3/step18)
 19. [야근 지수](https://github.com/malvr00/Java-algorithm/tree/master/programmers/level3/step19)
-20. [광고 삽입](https://github.com/malvr00/Java-algorithm/tree/master/programmers/level3/step20)
+20. [광고 삽입(KAKAO)](https://github.com/malvr00/Java-algorithm/tree/master/programmers/level3/step20)
