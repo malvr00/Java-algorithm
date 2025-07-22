@@ -23,3 +23,4 @@
 20. [광고 삽입(KAKAO 인턴)](https://github.com/malvr00/Java-algorithm/tree/master/programmers/level3/step20)
 21. [경주로 건설(KAKAO 인턴)](https://github.com/malvr00/Java-algorithm/tree/master/programmers/level3/step21)
 22. [보석 쇼핑(KAKAO 인턴)](https://github.com/malvr00/Java-algorithm/tree/master/programmers/level3/step22)
+23. [불량 사용자(KAKAO 인턴)](https://github.com/malvr00/Java-algorithm/tree/master/programmers/level3/step23)
