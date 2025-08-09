@@ -3,4 +3,4 @@
 
 ## 문제<br/>
 
-1. TwoSum[(이동)](https://github.com/malvr00/Java-algorithm/tree/master/leetcode/stap1)<br/>
+1. TwoSum[(이동)](https://github.com/malvr00/Java-algorithm/tree/master/leetcode/step1)<br/>
