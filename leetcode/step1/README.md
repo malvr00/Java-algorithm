@@ -1,4 +1,4 @@
-# [여행경로](https://github.com/malvr00/Java-algorithm/blob/master/leetcode/step21/src/Main.java)
+# [towSum](https://github.com/malvr00/Java-algorithm/blob/master/leetcode/step1/src/Main.java)
 
 ([자세한 문제는 LeetCode 참고](https://leetcode.com/problems/two-sum/)) <br/>
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.<br/>
