@@ -31,4 +31,5 @@
 28. [단어 변환](https://github.com/malvr00/Java-algorithm/tree/master/programmers/level3/step28)
 29. [네트워크](https://github.com/malvr00/Java-algorithm/tree/master/programmers/level3/step29)
 30. [정수 삼각형](https://github.com/malvr00/Java-algorithm/tree/master/programmers/level3/step30)
+31. [등굣길](https://github.com/malvr00/Java-algorithm/tree/master/programmers/level3/step31)
 
