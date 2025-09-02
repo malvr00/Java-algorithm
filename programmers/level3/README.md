@@ -34,4 +34,5 @@
 31. [등굣길](https://github.com/malvr00/Java-algorithm/tree/master/programmers/level3/step31)
 32. [단속 카메라](https://github.com/malvr00/Java-algorithm/tree/master/programmers/level3/step32)
 33. [이중우선순위큐](https://github.com/malvr00/Java-algorithm/tree/master/programmers/level3/step33)
+34. [디스크 컨트롤러](https://github.com/malvr00/Java-algorithm/tree/master/programmers/level3/step34)
 
