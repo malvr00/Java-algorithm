@@ -4,3 +4,4 @@
 
 ## 문제
 1. (브론즈 1) 피보나치 수 2 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step1)
+2. (실버  3) 1로 만들기 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step2)
