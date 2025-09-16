@@ -10,3 +10,4 @@
 5. <mark>(실버  3)</mark> 계단 오르기 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step5)
 6. <mark>(실버  2)</mark> 가장 긴 감소하는 부분 수열 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step6)
 7. <mark>(골드  5)</mark> 퇴사 2 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step7)
+8. <mark>(골드  3)</mark> 내리막 길 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step8)
