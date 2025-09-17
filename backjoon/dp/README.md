@@ -13,3 +13,4 @@
 8. <mark>(골드  3)</mark> 내리막 길 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step8)
 9. <mark>(골드  3)</mark> 파일 합치기 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step9)
 10. <mark>(골드  3)</mark> 행렬 곱셈 순서 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step10)
+11. <mark>(골드  4)</mark> LCS 2 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step11)
