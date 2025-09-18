@@ -15,3 +15,4 @@
 10. <mark>(골드  3)</mark> 행렬 곱셈 순서 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step10)
 11. <mark>(골드  4)</mark> LCS 2 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step11)
 12. <mark>(골드  1)</mark> 등차수열 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step12)
+13. <mark>(골드  3)</mark> 팰린드롬 수 [(이동)](https://github.com/malvr00/Java-algorithm/tree/master/backjoon/dp/step13)
