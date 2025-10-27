@@ -3,7 +3,7 @@ import java.util.*;
 public class Main {
 
     /**
-     * LEVE3
+     * LEVEL3
      * [현대 모비스] 상당원 인원
      * PriorityQueue, Combination(backtracking)
      */
