@@ -1,6 +1,6 @@
 # [네트워크](https://github.com/malvr00/Java-algorithm/blob/master/programmers/level3/step29/src/Main.java)
 
-([자세한 문제는 프로그래머스 참고](https://school.programmers.co.kr/learn/courses/30/lessons/43162) <br/>
+([자세한 문제는 프로그래머스 참고](https://school.programmers.co.kr/learn/courses/30/lessons/43162)) <br/>
 네트워크란 컴퓨터 상호 간에 정보를 교환할 수 있도록 연결된 형태를 의미합니다. 예를 들어, 컴퓨터 A와 컴퓨터 B가 직접적으로 연결되어있고, 컴퓨터 B와 컴퓨터 C가 직접적으로 연결되어 있을 때 컴퓨터 A와 컴퓨터 C도 간접적으로 연결되어 정보를 교환할 수 있습니다. 따라서 컴퓨터 A, B, C는 모두 같은 네트워크 상에 있다고 할 수 있습니다.<br/>
 <br/>
 컴퓨터의 개수 n, 연결에 대한 정보가 담긴 2차원 배열 computers가 매개변수로 주어질 때, 네트워크의 개수를 return 하도록 solution 함수를 작성하시
